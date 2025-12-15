@@ -15,8 +15,8 @@ The script generates:
 2. **Movement density map** - Kernel density visualization of angular deviations from mean membrane orientation
 
 <p align="center">
-  <img src="membrane_plane_intersections.png" width="45%">
-  <img src="movement_density_map.png" width="45%">
+  <img src="imgs/membrane_plane_intersections.png" width="45%">
+  <img src="imgs/movement_density_map.png" width="45%">
 </p>
 
 ## Usage
