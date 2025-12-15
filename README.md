@@ -14,8 +14,10 @@ The script generates:
 1. **Membrane plane intersections** - Red lines show the fitted membrane plane across Z-slices for each class
 2. **Movement density map** - Kernel density visualization of angular deviations from mean membrane orientation
 
-![Membrane plane intersections](membrane_plane_intersections.png)
-![Movement density map](movement_density_map.png)
+<p align="center">
+  <img src="membrane_plane_intersections.png" width="45%">
+  <img src="movement_density_map.png" width="45%">
+</p>
 
 ## Usage
 ```python
