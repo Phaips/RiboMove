@@ -1,6 +1,6 @@
 # RiboMove
 
-Analysis of ribosome-membrane orientations from cryo-EM 3D classes.
+Analysis of ribosome-membrane orientations from 3D classes.
 
 ## Method
 
